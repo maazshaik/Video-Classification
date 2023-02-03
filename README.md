@@ -1,4 +1,4 @@
-# Video-Classification - UCF101
+# Video-Classification
 
 ## Problem Space
 Video captures a cross-secton of our society. Major advances in analyzing and understanding video have the potental to touch all aspects of life from learning and communicaton to entertainment and play. A subset of the video analysis problem is human acton recogniton which involves analysis of realistic acton videos.<br />
